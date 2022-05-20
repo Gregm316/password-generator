@@ -9,7 +9,7 @@ Users will be asked the following:
   * Would you like to include uppercase letters?
   * Would you like to include lowercase letter?
 
-After user clicks the generate password button, based on their selected criteria, arandom password will be generated in the window.
+After user clicks the generate password button, based on their selected criteria, a random password will be generated in the window.
 
 
 ## Screenshot
